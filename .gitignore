@@ -1,6 +1,7 @@
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+.ipynb_checkpoints
 
 # Banco de dados exportado
 bancodados.sql
